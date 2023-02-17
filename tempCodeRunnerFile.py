@@ -1,0 +1,1 @@
+snapShot = snapShot/255
